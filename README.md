@@ -18,9 +18,6 @@
 
 </div>
 
-<br/>
-
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtdev-py&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
 
 ## About Me
 
@@ -44,7 +41,6 @@ I ship **production-ready software** across multiple platforms -- from Chrome ex
 
 Most of my work is **open-source and free**. When I see a gap in tooling, I fill it. When a task is repetitive, I automate it. Then I share it.
 
-<br clear="right"/>
 
 ---
 
