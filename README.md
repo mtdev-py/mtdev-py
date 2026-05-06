@@ -55,8 +55,13 @@ Most of my work is **open-source and free**. When I see a gap in tooling, I fill
 </td>
 <td align="center" width="140">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-<br/><sub><b>Orbita App</b></sub>
+<br/><sub><b>Orbita</b></sub>
 <br/><sub>Coming Soon</sub>
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+<br/><sub><b>Orbita</b></sub>
+<br/><sub>IPA Sideload</sub>
 </td>
 <td align="center" width="140">
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
@@ -105,11 +110,11 @@ Built to solve a real problem: course platforms that convert text to images to b
 </details>
 
 <details open>
-<summary><h3>Orbita &nbsp; <img src="https://img.shields.io/badge/Coming_Soon-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Coming Soon"/></h3></summary>
+<summary><h3>Orbita &nbsp; <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Android"/> &nbsp; <img src="https://img.shields.io/badge/iOS_(IPA)-000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></h3></summary>
 
 > Complete **productivity and life management platform** with AI assistant
 
-Full-stack SaaS with financial dashboard, goal tracking, habit management, and an AI assistant powered by Gemini. Built as a hybrid mobile app with real-time cloud backend and per-user data isolation.
+Full-stack SaaS with financial dashboard, goal tracking, habit management, and an AI assistant powered by Gemini. Built as a hybrid mobile app with real-time cloud backend and per-user data isolation. Available on **Android** (Google Play) and **iOS** (IPA sideload).
 
 | Module | Details |
 |:--|:--|
