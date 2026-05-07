@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Mateus%20Dev&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Building%20real%20products%20that%20solve%20real%20problems&descSize=14&descAlignY=55&descColor=8b949e"/>
 
 <a href="https://github.com/mtdev-py">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=Chrome+Extensions+%7C+Mobile+Apps+%7C+SaaS+Platforms;AI+Integration+%7C+Full-Stack+%7C+Cloud+Deployment" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=Chrome+Extensions+%7C+Mobile+Apps+%7C+SaaS+Platforms;AI+Integration+%7C+Full-Stack+%7C+Cloud+Deployment" alt="Typing SVG"/>
 </a>
 
 <br/>
