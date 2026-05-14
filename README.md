@@ -248,7 +248,7 @@ Interactive map with real-time positioning, accuracy visualization, and address 
 <div align="center">
 
 <a href="https://www.credly.com/badges/ca8e3657-882f-4881-8731-0206f7b7b663/public_url">
-<img src="https://images.credly.com/size/150x150/images/044e5170-cbb3-4d13-bb64-7e7a0f6d20e3/image.png" alt="Google AI for App Building" width="150"/>
+<img src="https://images.credly.com/images/7e854d65-d59d-45ad-9d4d-89d627087c08/blob" alt="Google AI for App Building" width="150"/>
 </a>
 
 **Google AI for App Building**
