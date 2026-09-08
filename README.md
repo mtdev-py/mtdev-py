@@ -1,276 +1,61 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Mateus%20Dev&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Building%20real%20products%20that%20solve%20real%20problems&descSize=14&descAlignY=55&descColor=8b949e"/>
-
-<a href="https://github.com/mtdev-py">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=Chrome+Extensions+%7C+Mobile+Apps+%7C+SaaS+Platforms;AI+Integration+%7C+Full-Stack+%7C+Cloud+Deployment" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-mtdev--py-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mtdev-py)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=mtdev-py&color=58a6ff&style=flat-square&label=Views)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/mtdev-py?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/mtdev-py?style=flat-square&color=58a6ff&labelColor=0d1117&label=Stars)
-
-</div>
-
-
-## About Me
-
-```yaml
-name: Mateus Santos
-role: Full-Stack Developer
-education: Systems Analysis & Development
-location: Brazil
-focus:
-  - Chrome Extensions
-  - SaaS Platforms
-  - Mobile Apps (Android)
-  - AI Integration
-  - Automation & Scripting
-philosophy: >
-  When I face a problem,
-  I build the solution.
-```
-
-I ship **production-ready software** across multiple platforms -- from Chrome extensions on the Web Store to SaaS platforms with cloud backends and mobile apps heading to Google Play.
-
-Most of my work is **open-source and free**. When I see a gap in tooling, I fill it. When a task is repetitive, I automate it. Then I share it.
-
-
----
-
-## Currently Shipping
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome"/>
-<br/><sub><b>AI Web Reader</b></sub>
-<br/><sub>Published</sub>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-<br/><sub><b>Orbita</b></sub>
-<br/><sub>Coming Soon</sub>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
-<br/><sub><b>Orbita</b></sub>
-<br/><sub>IPA Sideload</sub>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-<br/><sub><b>YT Downloader</b></sub>
-<br/><sub>Live</sub>
-</td>
-<td align="center" width="140">
-<img src="https://img.shields.io/badge/Web-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"/>
-<br/><sub><b>GeoTracker</b></sub>
-<br/><sub>Live</sub>
-</td>
-</tr>
-</table>
+# Mateus Santos
 
----
+**Full-Stack Product Engineer · SaaS · Mobile · Chrome Extensions · Applied AI**
 
-## Featured Projects
+I design, build, and ship useful software from product discovery to production.
 
-<details open>
-<summary><h3>AI Web Reader Pro &nbsp; <img src="https://img.shields.io/badge/Published-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Published"/></h3></summary>
+[Portfolio / Product Studio](https://santosmediahub.shop) · [AI Web Reader](https://github.com/mtdev-py/ai-web-reader-pro) · [YT Downloader API](https://github.com/mtdev-py/yt-downloader-api)
 
-> Intelligent Chrome extension that **extracts, summarizes, and reads aloud** any web page using AI
+## What I build
 
-Built to solve a real problem: course platforms that convert text to images to block copying, making it impossible for students to study. This extension bypasses that with **full-page OCR** via Vision AI.
+I turn real-world problems into production-ready products across web, mobile, browser extensions, automation, and AI. My work combines product thinking with full-stack delivery: interface, architecture, cloud backend, security, deployment, and documentation.
 
-| Feature | How It Works |
-|:--|:--|
-| **OCR Vision** | Automated scroll capture + GPT-4o/Gemini Vision processing + overlap deduplication |
-| **Smart Extraction** | Hybrid DOM engine with density-based scoring and noise removal |
-| **TTS Playback** | ElevenLabs natural voice, persistent via Chrome Offscreen API |
-| **AI Processing** | Summarize, explain, or simplify any content with one click |
-| **State Persistence** | Session survives popup close/reopen -- audio keeps playing in background |
+- **Product engineering:** discovery, UX, frontend, backend, integrations, and release
+- **AI features:** OCR/Vision, summarization, assistants, text-to-speech, and workflow automation
+- **Cloud systems:** authentication, PostgreSQL, row-level security, edge functions, and deployments
+- **Cross-platform delivery:** React, TypeScript, Capacitor, Android, iOS, Chrome MV3, Python, and Flask
 
-<div align="center">
+## Products
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Chrome MV3](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o_Vision-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs_TTS-000?style=flat-square)
+| Product | What it solves | Engineering highlights | Status |
+|---|---|---|---|
+| **[AI Web Reader Pro](https://github.com/mtdev-py/ai-web-reader-pro)** | Makes difficult or image-based web content easier to extract, understand, and hear | Chrome MV3, React, TypeScript, OCR/Vision, AI summarization, TTS, persistent background playback | **Published** |
+| **Orbita** | Unifies personal finance, goals, habits, and an AI assistant | React, TypeScript, Capacitor, Supabase Auth, PostgreSQL RLS, Edge Functions, Gemini | **Mobile release in progress** |
+| **AnimaFood** | A new Santos Media Hub system for the food experience | Product design and engineering in progress | **Link disponível em breve** |
+| **[YT Downloader API](https://github.com/mtdev-py/yt-downloader-api)** | Provides a clean backend for media download workflows | Python, Flask, yt-dlp, format selection, proxy routing, Railway | **Live** |
+| **[GeoTracker](https://github.com/mtdev-py/mapa-localizacao_atual)** | Shows current location with permission-aware fallbacks | Browser Geolocation API, IP fallback, JavaScript, responsive web UI | **Live** |
 
-[![Source Code](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mtdev-py/ai-web-reader-pro)
+## Selected engineering stories
 
-</div>
-</details>
+### AI Web Reader Pro
 
-<details open>
-<summary><h3>Orbita &nbsp; <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Android"/> &nbsp; <img src="https://img.shields.io/badge/iOS_(IPA)-000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></h3></summary>
+Built for pages and learning platforms where useful text may be locked inside images or noisy layouts. The extension combines DOM extraction with full-page OCR/Vision, overlap deduplication, AI processing, and natural-voice playback. State persists when the popup closes, so long-running audio and processing are not interrupted.
 
-> Complete **productivity and life management platform** with AI assistant
+### Orbita
 
-Full-stack SaaS with financial dashboard, goal tracking, habit management, and an AI assistant powered by Gemini. Built as a hybrid mobile app with real-time cloud backend and per-user data isolation. Available on **Android** (Google Play) and **iOS** (IPA sideload).
+A multi-module life-management product with finance dashboards, goals, habits, and an AI assistant. The architecture uses Supabase authentication, PostgreSQL Row Level Security for per-user isolation, and server-side Edge Functions for protected AI calls. One product, delivered across Android and iOS.
 
-| Module | Details |
-|:--|:--|
-| **AI Assistant** | Gemini-powered with internal knowledge base + natural language commands |
-| **Finance** | Income, expenses, categories, analytics charts with date filters |
-| **Goals & Habits** | Progress visualization, streaks, milestones |
-| **Auth** | Google OAuth + Supabase Auth with SPA routing |
-| **Security** | Row Level Security in PostgreSQL for multi-tenant isolation |
-| **Backend** | Edge Functions for server-side AI + secure API key management |
+### Product studio work
 
-<div align="center">
+**Santos Media Hub** is the product studio behind these systems: focused on practical software, thoughtful interfaces, and end-to-end execution. New products are documented as they move from concept to release.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+## How I work
 
-</div>
-</details>
+1. Start with the user problem and define a small, testable product scope.
+2. Design the data model, security boundaries, and deployment path before complexity grows.
+3. Ship an end-to-end vertical slice, then improve through real feedback.
+4. Document decisions, tradeoffs, setup, and verification so the work can be evaluated and maintained.
 
-<details open>
-<summary><h3>YT Downloader &nbsp; <img src="https://img.shields.io/badge/Live-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Live"/></h3></summary>
+## Core stack
 
-> Full-stack download solution: **Chrome extension** + **Flask API** on Railway
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite  
+**Backend & data:** Node.js, Python, Flask, Supabase, PostgreSQL  
+**Mobile & extensions:** Capacitor, Android, iOS, Chrome Extensions MV3  
+**AI & APIs:** OpenAI, Gemini, Vision/OCR, ElevenLabs  
+**Delivery:** Git, GitHub Actions, Railway, Vercel, Hostinger
 
-Built to replace unreliable, ad-filled download sites. Chrome extension injects a clean UI, backend handles processing via yt-dlp with proxy support.
+## Open to opportunities
 
-| Component | Stack |
-|:--|:--|
-| **Frontend** | Chrome Extension (MV3) with injected UI |
-| **Backend** | Flask + yt-dlp + proxy routing |
-| **Formats** | MP3, MP4, WebM with quality selection |
-| **Deploy** | Railway with auto-scaling |
+I am interested in product engineering and full-stack roles where I can own meaningful problems, collaborate closely with the business, and ship reliable software.
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mtdev-py/yt-downloader-api)
-
-</div>
-</details>
-
-<details>
-<summary><h3>Enterprise Internal Tools &nbsp; <img src="https://img.shields.io/badge/NDA-6e7681?style=flat-square" alt="NDA"/></h3></summary>
-
-> Custom **automation tools and data pipelines** for a private organization
-
-Automated repetitive workflows, built data transformation pipelines, integrated third-party APIs. Details under NDA.
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF6F00?style=flat-square)
-
-</div>
-</details>
-
-<details>
-<summary><h3>GeoTracker &nbsp; <img src="https://img.shields.io/badge/Live-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Live"/></h3></summary>
-
-> Dark-themed geolocation app with **GPS + IP fallback** and reverse geocoding
-
-Interactive map with real-time positioning, accuracy visualization, and address resolution. Full dark UI with CARTO tiles.
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-
-[![Source Code](https://img.shields.io/badge/View_Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mtdev-py/mapa-localizacao_atual)
-
-</div>
-</details>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-| Category | Technologies |
-|:--|:--|
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Mobile** | ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **AI / APIs** | ![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=flat-square) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white) |
-| **Extensions** | ![Chrome MV3](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mtdev-py&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&rank_icon=percentile" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mtdev-py&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mtdev-py&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mtdev-py&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=6"/>
-
-</div>
-
----
-
-## Certifications
-
-<div align="center">
-
-<a href="https://www.credly.com/badges/ca8e3657-882f-4881-8731-0206f7b7b663/public_url">
-<img src="https://images.credly.com/images/7e854d65-d59d-45ad-9d4d-89d627087c08/blob" alt="Google AI for App Building" width="150"/>
-</a>
-
-**Google AI for App Building**
-
-</div>
-
----
-
-<div align="center">
-
-### Where to Find My Work
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Published-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/)
-&nbsp;
-[![Google Play](https://img.shields.io/badge/Google_Play-Coming_Soon-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/)
-
-<br/>
-
-```
-Open to opportunities -- Let's build something great.
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer"/>
+> When I face a problem, I build the solution.
